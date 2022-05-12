@@ -7,5 +7,6 @@ package com.example.test;
 public class test {
     public static void main(String[] args) {
         System.out.println("第二版本");
+        System.out.println("第三版本");
     }
 }
