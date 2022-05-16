@@ -11,5 +11,6 @@ public class test {
         System.out.println("第三版本的2分支");
         System.out.println("主分支的修改与推送");
         System.out.println("github上主分支的修改，需要拉取到本地");
+        System.out.println("更新master分支，需要拉取到本地");
     }
 }
